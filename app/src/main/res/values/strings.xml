@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JSON Parsing Demo</string>
+    <string name="name_title">Name:</string>
+    <string name="email_title">Email:</string>
+    <string name="phone_title">Phone:</string>
+    <string name="website_title">Website:</string>
+    <string name="address_title">Address:</string>
+    <string name="address_text">%1$s, %2$s\n%3$s\n%4$s\n</string>
+</resources>
