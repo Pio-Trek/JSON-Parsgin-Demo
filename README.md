@@ -2,7 +2,7 @@
 
 This is a demo app that presents how to retrieves the JSON object from REST API service, convert it to a String object, then parse it to variables, populate to the user and perform all operations on a background thread using AscyncTask class.
 
-More information check my blog post:
+For more information check my blog post:
 
 http://sundaydevblog.com/blog/post/example-of-android-json-parsing-from-rest-service
 
