@@ -1,7 +1,21 @@
-# Example of Android JSON Parsing from REST service
+# Android JSON Parsing from REST service
 
-More information:</br>
+This is a demo app that presents how to retrieves the JSON object from REST API service, convert it to a String object, then parse it to variables, populate to the user and perform all operations on a background thread using AscyncTask class.
+
+More information check my blog post:
 http://sundaydevblog.com/blog/post/example-of-android-json-parsing-from-rest-service
+
+![Sample screen](https://github.com/Pio-Trek/JSON-Parsgin-Demo/blob/master/art/app01.png)
+
+## Pre-requisites
+
+- Android SDK v21 (Android 5.0 Lollipop)
+- Android Build Tools v26.0.1
+- Android Support Repository v26.+
+
+## Getting Started
+
+This app uses the Gradle build system. To build this project, use the `gradlew build` command or use `Import Project` in Android Studio.
 
 # License
 Copyright 2017 Piotr Przechodzki
